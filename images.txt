@@ -6,6 +6,7 @@ alpine:latest
 snowdreamtech/frps
 snowdreamtech/frpc
 xhofe/alist
-lochnas/lochnas
+mariadb
+nextcloud
 #支持指定架构
 --platform=linux/arm64 alpine:latest
