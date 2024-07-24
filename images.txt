@@ -8,5 +8,6 @@ snowdreamtech/frpc
 xhofe/alist
 mariadb
 nextcloud
+dperson/samba
 #支持指定架构
 --platform=linux/arm64 alpine:latest
