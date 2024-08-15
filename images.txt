@@ -1,4 +1,4 @@
-emberstack/sftp
+atmoz/sftp
 dperson/samba
 cloverzrg/frps-docker
 cloverzrg/frpc-docker
