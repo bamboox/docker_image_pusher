@@ -1,3 +1,4 @@
+ubuntu:22.04
 caomingjun/warp
 tailscale/tailscale
 ghcr.io/yangchuansheng/derper
