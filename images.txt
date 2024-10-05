@@ -1,3 +1,5 @@
+golang:1.17-alpine3.14
+alpine:3.14
 ubuntu:22.04
 caomingjun/warp
 tailscale/tailscale
