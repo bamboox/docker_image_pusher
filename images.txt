@@ -1,3 +1,4 @@
+dperson/socks5
 alpine:3.20
 monius/docker-warp-socks:v3
 golang:1.23-alpine3.19
